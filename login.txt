@@ -3,3 +3,4 @@ Student Login feature
 Username: Sam
 Authentication: Fixed
 Security: Updated
+Critical login issue fixed
